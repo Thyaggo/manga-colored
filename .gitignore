@@ -1,3 +1,5 @@
 .*/
-.
 __pycache__/
+.netrc
+lightning_logs
+wandb
