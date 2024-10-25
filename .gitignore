@@ -1,5 +1,6 @@
 .*/
 __pycache__/
 .netrc
+output_images
 lightning_logs
 wandb
